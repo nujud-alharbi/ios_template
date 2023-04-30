@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ios_template
+
+  Created by Nujud Alalawi on 10/10/1444 AH.
+  
+*/
+"hello" = "welcom to my app " ;
+"changeLang" = "change langauge";
