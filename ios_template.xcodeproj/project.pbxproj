@@ -65,6 +65,7 @@
 		046874BF29FED93400A34C60 /* core */ = {
 			isa = PBXGroup;
 			children = (
+				046874C129FEF17500A34C60 /* localization */,
 			);
 			path = core;
 			sourceTree = "<group>";
@@ -74,6 +75,13 @@
 			children = (
 			);
 			path = features;
+			sourceTree = "<group>";
+		};
+		046874C129FEF17500A34C60 /* localization */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = localization;
 			sourceTree = "<group>";
 		};
 		0481B62329ED4EE400AF310A = {
