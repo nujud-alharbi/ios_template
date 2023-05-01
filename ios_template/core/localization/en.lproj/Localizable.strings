@@ -6,4 +6,8 @@
   
 */
 "hello" = "welcom to my app " ;
-"changeLang" = "change langauge";
+"changeLang" = "English";
+"language" = "Language";
+"authButton" = "Authentication";
+"profileButton" = "Profile";
+"crudButton" = "CRUD";

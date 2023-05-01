@@ -8,10 +8,6 @@
 import UIKit
 class Language {
     
-
-    
-    
-    
 //    save current language
     func changeLanguage (){
         

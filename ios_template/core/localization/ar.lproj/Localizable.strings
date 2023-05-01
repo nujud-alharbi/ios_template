@@ -7,4 +7,10 @@
 */
 
 "hello" = "اهلا بكم " ;
-"changeLang" = " تغيير اللغة";
+"changeLang" = "عربي";
+"hello" = "welcom to my app " ;
+"changeLang" = "عربي";
+"language" = "اللغة";
+"authButton" = "التسجيل";
+"profileButton" = "الملف الشخصي";
+"crudButton" = "عمليات الحذف والاضافة";
